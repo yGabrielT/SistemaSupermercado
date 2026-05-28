@@ -1,7 +1,16 @@
 # Sistema de Supermercado
 
 ## Integrantes
-- Coloque aqui o nome dos integrantes do grupo.
+Luis Felipe Pereira da Silva - 923106793
+Otavio Almeida de Souza - 923108724
+João Victor Caires Xavier - 923103128
+Carlos Eduardo Pietoso Ribeiro Silva - 923107805
+Gustavo Dias de Assis Silva - 923101111
+Gabriel Santos de Moraes - 922208819
+Mattheus Nascimento Araujo - 922207616
+Victor Gustavo Silva Cabral - 923115594
+Gabriel Trindade Dias – 924118662
+João Victor patrício do nascimento - 3024107981
 
 ## Descrição
 Sistema desktop desenvolvido em C# com Windows Forms para gerenciamento de supermercado.
