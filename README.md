@@ -44,6 +44,14 @@ Também existe um script SQL na pasta `SQL/criar_banco.sql`.
 Caso o SQL Server LocalDB não esteja instalado, instale pelo Visual Studio Installer ou altere a string de conexão no arquivo:
 
 `SistemaSupermercado/Database/Banco.cs`
+```
+ private const string ConexaoMaster = @"Server=(localdb)\MSSQLLocalDB;Database=master;Trusted_Connection=True;TrustServerCertificate=True;";
+ public const string Conexao = @"Server=(localdb)\MSSQLLocalDB;Database=SupermercadoDB;Trusted_Connection=True;TrustServerCertificate=True;";
+```
+Caso esteja usando o localdb so troque o `(localdb)` pelo o nome do seu sistema
+Outras alternativas:
+- SQLDeveloper so seria necessário o nome do sistema e remove o `\MSSQLLocalDB`
+- SQLExpress so seria necessário o nome do sistema e troca o `\MSSQLLocalDB` por `\SQLEXPRESS`
 
 ## Usuário e senha
 Este sistema não possui tela de login.
