@@ -1,0 +1,100 @@
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.exe
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.deps.json
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.runtimeconfig.json
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.AssemblyReference.cache
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfoInputs.cache
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfo.cs
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaS.DA92C872.Up2Date
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\refint\SistemaSupermercado.dll
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.pdb
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.genruntimeconfig.cache
+C:\Users\gtrin\Downloads\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\ref\SistemaSupermercado.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.exe
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.deps.json
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.runtimeconfig.json
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\SistemaSupermercado.pdb
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.AssemblyReference.cache
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfoInputs.cache
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.AssemblyInfo.cs
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.csproj.CoreCompileInputs.cache
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaS.DA92C872.Up2Date
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\refint\SistemaSupermercado.dll
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.pdb
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\SistemaSupermercado.genruntimeconfig.cache
+D:\Faculdade Coisas\sistemasupermercado\SistemaSupermercado\SistemaSupermercado\obj\Debug\net8.0-windows\ref\SistemaSupermercado.dll
