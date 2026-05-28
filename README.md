@@ -1,5 +1,5 @@
 # Sistema de Supermercado
-## Nome do projeto:
+## Nome do projeto
 Sistema de Supermercado
 ## Integrantes
 Luis Felipe Pereira da Silva - 923106793
